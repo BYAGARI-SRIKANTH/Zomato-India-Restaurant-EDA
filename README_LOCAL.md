@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Indian Restaurants Market Analysis (Zomato)
 
 This repository contains an exploratory data analysis of Zomato restaurant listings in India and a data-driven marketing campaign proposal based on those insights.
@@ -65,6 +64,3 @@ Project notebook prepared by Saba Gul.
 ## License
 
 This repository does not include a license file. Add one if you intend to reuse or redistribute the work.
-=======
-# Zomato-India-Restaurant-EDA
->>>>>>> dcb742897901e880e759a899a71665739c902bf2
